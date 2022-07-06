@@ -59,9 +59,21 @@ h2{
     padding:20px;
     box-shadow: 10px 10px 40px gray;
     border-radius: 20px;
+    
+}
+
+#red-colour{
+    border-left:10px solid red;
+}
+#blue-colour{
+    border-left:10px solid brown;
 }
 .experience-area{
 background-image: url(images/exp-bg.png);
 background-repeat: no-repeat;
 background-position: left;
+}
+
+footer p{
+    text-align: center;
 }
